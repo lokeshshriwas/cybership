@@ -46,7 +46,7 @@ Every error is a `CarrierError` with a `code`, `message`, `carrier`, and `retrya
 ### Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/lokeshshriwas/cybership.git
 cd cybership
 npm install
 cp .env.example .env
