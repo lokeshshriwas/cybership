@@ -1,0 +1,11 @@
+node_modules/
+.env
+dist/
+build/
+coverage/
+*.tsbuildinfo
+.vscode/
+.nyc_output/
+tmp/
+temp/
+package-lock.json
